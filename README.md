@@ -1,2 +1,3 @@
 # CS2205.CH181
-Hoàng Trường Thịnh - 230201031.CS2205.CH181 - Cloud malware analyzer: Ứng Dụng Phân Tích Mã Độc Trực Tuyến
+Hoàng Trường Thịnh - 230201031.CS2205.CH181 - TRIỂN KHAI CÔNG NGHỆ ĐÁM M Y KẾT HỢP CÁC PHƯƠNG PHÁP ĐỂ PHÂN TÍCH PHẦN MỀM MALWARE TRONG ỨNG DỤNG ANDROID
+
